@@ -4,3 +4,37 @@
     padding: 20px;
     width: 300px;
 }
+
+#box-1 {
+    border-style: solid;
+}
+
+#box-2 {
+    border-style: dashed;
+}
+
+#box-3 {
+    border-style: dotted;
+
+}
+#box-4 {
+    border-style: double;
+}
+
+#box-5 {
+    border: .5rem solid;
+
+}
+
+#box-6 {
+    border: .5rem dashed
+}
+
+#box-7 {
+    border: .5rem dotted;
+}
+
+#box-8 {
+    border: .5rem double;
+
+}
